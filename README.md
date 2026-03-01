@@ -1,6 +1,6 @@
-# Wireless-and-Radiotechnology-Course-2026
 
-# Wireless and Radiotechnology Course 2026  
+# Wireless and Radiotechnology Course 2026 
+
 ## Assignment: Wireless Product Manufacturers Research  
 
 **Student:** Sandesh  
